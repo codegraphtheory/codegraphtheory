@@ -1,4 +1,4 @@
-## Hi there 👋 I'm @CodeGraphTheory.
+## Hi there 👋 I'm GraphTheory.
 
 I am an educational resource creator focused on **Graph Computing**, **Compiler Design**, and **Knowledge Representation**. My work bridges the gap between theoretical computer science and practical software engineering, with a special emphasis on:
 
