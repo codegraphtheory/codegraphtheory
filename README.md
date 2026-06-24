@@ -1,25 +1,45 @@
 # GraphTheory
 
-**Building open-source blockchain analysis tools.**
+**Building installable Hermes Agent profiles, agent tooling, and specialist AI workflows.**
 
-Creator of [Solana Rug Guard](https://github.com/rugpullnet/solana-rug), a 13-factor on-chain rug-pull detection engine for Solana tokens and wallets. No paid APIs. Fully auditable. MIT licensed.
+I build open-source agent infrastructure for people who want practical, verifiable AI systems: profile distributions, reusable skills, catalog-ready agent identities, and domain specialists that can be installed, tested, and improved like normal software.
 
-Check any token or wallet for red flags:
+## Featured Hermes projects
+
+- [**Hermes Profile Template**](https://github.com/codegraphtheory/hermes-profile-template): AI-friendly starter kit for building high quality, installable Hermes Agent profile distributions. Includes generators, validation, catalog snippets, CI, and release-ready structure.
+
+- [**ContextForge RAG**](https://github.com/codegraphtheory/context-forge-rag): installable Hermes Agent profile for production RAG architecture, AI agent workflows, evaluation, observability, and release discipline.
+
+- [**ChainForge**](https://github.com/codegraphtheory/chainforge): security-first blockchain architect profile for smart contracts, protocol design, audits, tokenomics, and production-grade Web3 engineering.
+
+- [**Hermes Profiles**](https://github.com/codegraphtheory/hermes-profiles): curated Hermes Agent profiles for specialist swarms, identity-driven workflows, and reusable agent operating patterns.
+
+- [**Hermes Profile Kit**](https://github.com/codegraphtheory/hermes-profile-kit): drop-in Hermes Agent profile kit for isolated profiles, separate config, gateway tokens, memory, and personas.
+
+- [**Awesome Hermes Agent**](https://github.com/codegraphtheory/awesome-hermes-agent): curated list of Hermes Agent skills, tools, integrations, templates, and resources.
+
+## What I care about
+
+- Agent profiles that install cleanly with `hermes profile install`.
+- Skills that encode reusable procedures, not one-off chat history.
+- Validation, smoke tests, and visible provenance for every public agent package.
+- Specialist agents with clear scope, refusal rules, output contracts, and verification discipline.
+- RAG, blockchain, graph technology, and developer tooling that can survive real users.
+
+## Also building
+
+- [**Solana Rug Guard**](https://github.com/codegraphtheory/solana-rug): open-source trust and safety analysis for Solana tokens and wallets.
+- [**Awesome RAG Resources**](https://github.com/codegraphtheory/awesome-rag-resources): curated RAG papers, tools, frameworks, tutorials, and benchmarks.
+- [**Graph Theory Resources**](https://github.com/codegraphtheory/codegraphtheory): graph theory, code graphs, graph databases, and graph neural network references.
+
+## Start here
+
 ```bash
-curl -OL https://github.com/rugpullnet/solana-rug/releases/latest/download/rugguard.py
-python3 rugguard.py token <MINT_ADDRESS> --md
+hermes profile install github.com/codegraphtheory/hermes-profile-template \
+  --name profile-architect \
+  --alias
+
+profile-architect chat
 ```
 
-### Featured Project
-
-- [**Solana Rug Guard**](https://github.com/rugpullnet/solana-rug): 13-factor rug-pull detection. CLI + Hermes Agent skill. Open source.
-
-### Support
-
-If the tools help you, consider grabbing a bag of **$RUG** on pumpSwap.
-
-```
-F4J5LKyEQraMem8nspPAzwHXaaKMMDsxyt7GUK94pump
-```
-
-[View Chart →](https://dexscreener.com/solana/4sHKYieWsGtrmtqjdXPRzSdVywXZ1jUQGbM8QbkBXMB9)
+Then ask it to create a specialist Hermes profile for your workflow.
