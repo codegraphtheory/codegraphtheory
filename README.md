@@ -4,19 +4,13 @@
 
 I build open-source agent infrastructure for people who want practical, verifiable AI systems: profile distributions, reusable skills, catalog-ready agent identities, and domain specialists that can be installed, tested, and improved like normal software.
 
-## Featured Hermes projects
+## Featured original projects
 
 - [**Hermes Profile Template**](https://github.com/codegraphtheory/hermes-profile-template): AI-friendly starter kit for building high quality, installable Hermes Agent profile distributions. Includes generators, validation, catalog snippets, CI, and release-ready structure.
 
 - [**ContextForge RAG**](https://github.com/codegraphtheory/context-forge-rag): installable Hermes Agent profile for production RAG architecture, AI agent workflows, evaluation, observability, and release discipline.
 
 - [**ChainForge**](https://github.com/codegraphtheory/chainforge): security-first blockchain architect profile for smart contracts, protocol design, audits, tokenomics, and production-grade Web3 engineering.
-
-- [**Hermes Profiles**](https://github.com/codegraphtheory/hermes-profiles): curated Hermes Agent profiles for specialist swarms, identity-driven workflows, and reusable agent operating patterns.
-
-- [**Hermes Profile Kit**](https://github.com/codegraphtheory/hermes-profile-kit): drop-in Hermes Agent profile kit for isolated profiles, separate config, gateway tokens, memory, and personas.
-
-- [**Awesome Hermes Agent**](https://github.com/codegraphtheory/awesome-hermes-agent): curated list of Hermes Agent skills, tools, integrations, templates, and resources.
 
 ## What I care about
 
@@ -29,8 +23,7 @@ I build open-source agent infrastructure for people who want practical, verifiab
 ## Also building
 
 - [**Solana Rug Guard**](https://github.com/codegraphtheory/solana-rug): open-source trust and safety analysis for Solana tokens and wallets.
-- [**Awesome RAG Resources**](https://github.com/codegraphtheory/awesome-rag-resources): curated RAG papers, tools, frameworks, tutorials, and benchmarks.
-- [**Graph Theory Resources**](https://github.com/codegraphtheory/codegraphtheory): graph theory, code graphs, graph databases, and graph neural network references.
+- [**GraphTheory Profile**](https://github.com/codegraphtheory/codegraphtheory): profile README and index for GraphTheory's original agent infrastructure, graph technology, and developer workflow projects.
 
 ## Start here
 
