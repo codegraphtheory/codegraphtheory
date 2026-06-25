@@ -23,7 +23,6 @@ I build open-source agent infrastructure for people who want practical, verifiab
 ## Also building
 
 - [**Solana Rug Guard**](https://github.com/codegraphtheory/solana-rug): open-source trust and safety analysis for Solana tokens and wallets.
-- [**GraphTheory Profile**](https://github.com/codegraphtheory/codegraphtheory): profile README and index for GraphTheory's original agent infrastructure, graph technology, and developer workflow projects.
 
 ## Start here
 
