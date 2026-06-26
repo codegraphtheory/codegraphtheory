@@ -1,5 +1,8 @@
 # GraphTheory
 
+
+<p><strong>Docs:</strong> <a href="https://graphtheory.xyz/codegraphtheory/">https://graphtheory.xyz/codegraphtheory/</a></p>
+
 **Building installable Hermes Agent profiles, agent tooling, and specialist AI workflows.**
 
 I build open-source agent infrastructure for people who want practical, verifiable AI systems: profile distributions, reusable skills, catalog-ready agent identities, and domain specialists that can be installed, tested, and improved like normal software.
