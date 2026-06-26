@@ -9,11 +9,13 @@ I build open-source agent infrastructure for people who want practical, verifiab
 
 ## Featured original projects
 
-- [**Hermes Profile Template**](https://github.com/codegraphtheory/hermes-profile-template): AI-friendly starter kit for building high quality, installable Hermes Agent profile distributions. Includes generators, validation, catalog snippets, CI, and release-ready structure.
+- [**Hermes Profile Template**](https://github.com/codegraphtheory/hermes-profile-template): AI-friendly starter kit for building high quality, installable Hermes Agent profile distributions. Includes generators, validation, catalog snippets, CI, and release-ready structure. [Docs](https://graphtheory.xyz/hermes-profile-template/)
 
-- [**ContextForge RAG**](https://github.com/codegraphtheory/context-forge-rag): installable Hermes Agent profile for production RAG architecture, AI agent workflows, evaluation, observability, and release discipline.
+- [**Heavy Coder**](https://github.com/codegraphtheory/heavy-coder): adaptive multi-agent coding-team profile for GitHub issue-to-PR automation, blind critique, synthesis, CI schemas, and fail-closed unattended merge policy. [Docs](https://graphtheory.xyz/heavy-coder/)
 
-- [**ChainForge**](https://github.com/codegraphtheory/chainforge): security-first blockchain architect profile for smart contracts, protocol design, audits, tokenomics, and production-grade Web3 engineering.
+- [**ContextForge RAG**](https://github.com/codegraphtheory/context-forge-rag): installable Hermes Agent profile for production RAG architecture, AI agent workflows, evaluation, observability, and release discipline. [Docs](https://graphtheory.xyz/context-forge-rag/)
+
+- [**ChainForge**](https://github.com/codegraphtheory/chainforge): security-first blockchain architect profile for smart contracts, protocol design, audits, tokenomics, and production-grade Web3 engineering. [Docs](https://graphtheory.xyz/chainforge/)
 
 ## What I care about
 
@@ -25,7 +27,7 @@ I build open-source agent infrastructure for people who want practical, verifiab
 
 ## Also building
 
-- [**Solana Rug Guard**](https://github.com/codegraphtheory/solana-rug): open-source trust and safety analysis for Solana tokens and wallets.
+- [**Solana Rug Guard**](https://github.com/codegraphtheory/solana-rug): open-source trust and safety analysis for Solana tokens and wallets. [Docs](https://graphtheory.xyz/solana-rug/)
 
 ## Start here
 
