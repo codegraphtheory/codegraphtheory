@@ -1,0 +1,23 @@
+{
+  "name": "HeavyCoder",
+  "black": "#0a0e14",
+  "red": "#ff6b9d",
+  "green": "#5eca89",
+  "yellow": "#fdd877",
+  "blue": "#65aef7",
+  "magenta": "#c678dd",
+  "cyan": "#56d4e8",
+  "white": "#e6e8eb",
+  "brightBlack": "#3d4450",
+  "brightRed": "#ff8ab3",
+  "brightGreen": "#7ee0a8",
+  "brightYellow": "#ffe08a",
+  "brightBlue": "#8bc4ff",
+  "brightMagenta": "#d8a0f0",
+  "brightCyan": "#7ee8ff",
+  "brightWhite": "#ffffff",
+  "background": "#0a0e14",
+  "foreground": "#e6e8eb",
+  "selection": "#1a2332",
+  "cursor": "#56d4e8"
+}

@@ -12,6 +12,10 @@ Open-source AI advocate building practical, verifiable agent infrastructure on H
 
 </div>
 
+<p align="center">
+  <img src="demos/demo.gif" alt="30-second demo: org repos and Hermes profile install" width="100%">
+</p>
+
 ## Featured original projects
 
 | Project | What it does | Docs | Star |
