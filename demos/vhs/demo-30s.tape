@@ -10,6 +10,8 @@ Type "# GraphTheory · Hermes profiles and agent tooling" Enter
 Sleep 600ms
 
 Hide
+Type "source demos/vhs/sanitize-recording-env.sh" Enter
+Sleep 300ms
 Type "gh api users/codegraphtheory/repos --jq '.[]|select(.fork==false)|.name'" Enter
 Sleep 4s
 Type "sed -n '1,22p' README.md" Enter
