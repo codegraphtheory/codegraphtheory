@@ -27,12 +27,13 @@ Open-source AI advocate building practical, verifiable agent infrastructure on H
 ```bash
 hermes profile install github.com/codegraphtheory/hermes-profile-template \
   --name profile-architect \
-  --alias
+  --alias \
+  --yes
 
 profile-architect chat
 ```
 
-Ask it to turn a specialist workflow into an installable Hermes profile repo.
+Ask it to turn a specialist workflow into an installable Hermes profile repo. If you want the most opinionated demo first, start with [Heavy Coder](https://github.com/codegraphtheory/heavy-coder).
 
 ## What I optimize for
 
